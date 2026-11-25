@@ -1,0 +1,6 @@
+S101|Harshal|B Tech CSE|9.0
+S102|Amritansh|B Tech CSE|7.5
+S103|Aakash Bhagat|B Tech CSE|8.5
+S104|Harsh Sanjit|B Tech in AI ML|9.4
+S105|Ujjawal Gupta|B Tech in Cyber Security|8.0
+S106|Aditya Mohan|B Tech CSE|8.0
